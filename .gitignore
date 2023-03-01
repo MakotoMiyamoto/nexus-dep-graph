@@ -1,3 +1,9 @@
+# Project-specific
+build/
+
+# Why didn't Github already ignore this?
+package-lock.json
+
 # Logs
 logs
 *.log
